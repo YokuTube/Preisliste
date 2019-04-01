@@ -125,16 +125,15 @@
 
 					</table>
 				</div>
-        <div class="col-md-4">
-          <iframe frameborder="0"
-                  scrolling="no"
-                  id="chat_embed"
-                  src="https://www.twitch.tv/embed/yokutube/chat"
-                  height="500"
-                  width="350">
-          </iframe>
-        </div>
 	          </div>
+            <div class="col-md-4">
+              <iframe frameborder="0"
+                      scrolling="no"
+                      id="chat_embed"
+                      src="https://www.twitch.tv/embed/yokutube/chat"
+                      height="500">
+              </iframe>
+            </div>
 	        </div>
 
 	        <hr>
@@ -191,6 +190,10 @@
 	  top:-4px;
 	  right:-5px;
 	}
+  
+  iframe {
+    width:100% !important;
+  }
 	</style>
 	<script type="text/javascript">
 		$.getJSON( itemListURL, function( data ) {
