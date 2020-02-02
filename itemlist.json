@@ -2,199 +2,199 @@
 	"items" : [
 	{
 		"abr": ".303britishcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_AP"
 	},
 	{
 		"abr": ".303britishcartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_Incendiary"
 	},
 	{
 		"abr": ".303britishcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_FMJ"
 	},
 	{
 		"abr": ".303britishcartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_HE"
 	},
 	{
 		"abr": ".303britishcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_HP"
 	},
 	{
 		"abr": ".303britishcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": ".303 British",
 		"defname": "Ammo_303British_Sabot"
 	},
 	{
 		"abr": ".410boreshell(buck)",
-		"price": -10,
+		"price": 1,
 		"category": ".410 Bore",
 		"defname": "Ammo_410Bore_Buck"
 	},
 	{
 		"abr": ".44magnumcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_AP"
 	},
 	{
 		"abr": ".44magnumcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_FMJ"
 	},
 	{
 		"abr": ".44magnumcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_HP"
 	},
 	{
 		"abr": ".45acpcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_AP"
 	},
 	{
 		"abr": ".45acpcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_FMJ"
 	},
 	{
 		"abr": ".45acpcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_HP"
 	},
 	{
 		"abr": ".45coltcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 Colt",
 		"defname": "Ammo_45Colt_AP"
 	},
 	{
 		"abr": ".45coltcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 Colt",
 		"defname": "Ammo_45Colt_FMJ"
 	},
 	{
 		"abr": ".45coltcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": ".45 Colt",
 		"defname": "Ammo_45Colt_HP"
 	},
 	{
 		"abr": ".50bmgcartridge(ap-he)",
-		"price": -10,
+		"price": 2,
 		"category": ".50 BMG",
 		"defname": "Ammo_50BMG_HE"
 	},
 	{
 		"abr": ".50bmgcartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": ".50 BMG",
 		"defname": "Ammo_50BMG_Incendiary"
 	},
 	{
 		"abr": ".50bmgcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": ".50 BMG",
 		"defname": "Ammo_50BMG_FMJ"
 	},
 	{
 		"abr": ".50bmgcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": ".50 BMG",
 		"defname": "Ammo_50BMG_Sabot"
 	},
 	{
 		"abr": "12gaugechargedshell",
-		"price": -10,
+		"price": 3,
 		"category": "12Gauge Charged",
 		"defname": "Ammo_12GaugeCharged"
 	},
 	{
 		"abr": "12gaugechargedshell(ionslug)",
-		"price": -10,
+		"price": 3,
 		"category": "12Gauge Charged",
 		"defname": "Ammo_12GaugeCharged_Ion"
 	},
 	{
 		"abr": "12gaugechargedshell(slug)",
-		"price": -10,
+		"price": 3,
 		"category": "12Gauge Charged",
 		"defname": "Ammo_12GaugeCharged_Slug"
 	},
 	{
 		"abr": "12gaugeshell(bean)",
-		"price": -10,
+		"price": 1,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Beanbag"
 	},
 	{
 		"abr": "12gaugeshell(buck)",
-		"price": -10,
+		"price": 1,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Buck"
 	},
 	{
 		"abr": "12gaugeshell(emp)",
-		"price": -10,
+		"price": 2,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_ElectroSlug"
 	},
 	{
 		"abr": "12gaugeshell(slug)",
-		"price": -10,
+		"price": 1,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Slug"
 	},
 	{
 		"abr": "12x64mmchargedcartridge",
-		"price": -10,
+		"price": 5,
 		"category": "12x64mm Charged",
 		"defname": "Ammo_12x64mmCharged"
 	},
 	{
 		"abr": "14.5x114mmcartridge(ap-i)",
-		"price": -10,
+		"price": 2,
 		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_Incendiary"
 	},
 	{
 		"abr": "14.5x114mmcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_FMJ"
 	},
 	{
 		"abr": "14.5x114mmcartridge(he)",
-		"price": -10,
+		"price": 2,
 		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_HE"
 	},
 	{
 		"abr": "14.5x114mmcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_Sabot"
 	},
 	{
 		"abr": "30x29mmgrenade(emp)",
-		"price": -10,
+		"price": 8,
 		"category": "30x29mm Grenade",
 		"defname": "Ammo_30x29mmGrenade_EMP"
 	},
@@ -206,19 +206,19 @@
 	},
 	{
 		"abr": "30x64mmfuelcell(foam)",
-		"price": -10,
+		"price": 1,
 		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Foam"
 	},
 	{
 		"abr": "30x64mmfuelcell(incendiary)",
-		"price": -10,
+		"price": 3,
 		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Incendiary"
 	},
 	{
 		"abr": "30x64mmfuelcell(thermobaric)",
-		"price": -10,
+		"price": 4,
 		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Thermobaric"
 	},
@@ -230,295 +230,295 @@
 	},
 	{
 		"abr": "40x46mmgrenade(emp)",
-		"price": -10,
+		"price": 8,
 		"category": "40x46mm Grenade",
 		"defname": "Ammo_40x46mmGrenade_EMP"
 	},
 	{
 		"abr": "40x46mmgrenade(he)",
-		"price": -10,
+		"price": 4,
 		"category": "40x46mm Grenade",
 		"defname": "Ammo_40x46mmGrenade_HE"
 	},
 	{
 		"abr": "40x53mmgrenade(emp)",
-		"price": -10,
+		"price": 4,
 		"category": "40x53mm Grenade",
 		"defname": "Ammo_40x53mmGrenade_EMP"
 	},
 	{
 		"abr": "40x53mmgrenade(he)",
-		"price": -10,
+		"price": 4,
 		"category": "40x53mm Grenade",
 		"defname": "Ammo_40x53mmGrenade_HE"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_AP"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_Incendiary"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_FMJ"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_HE"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_HP"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "5.45x39mm Soviet",
 		"defname": "Ammo_545x39mmSoviet_Sabot"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_AP"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_Incendiary"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_FMJ"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_HE"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_HP"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_Sabot"
 	},
 	{
 		"abr": "5x35mmchargedcartridge",
-		"price": -10,
+		"price": 2,
 		"category": "5x35mm Charged",
 		"defname": "Ammo_5x35mmCharged"
 	},
 	{
 		"abr": "6x18mmchargedcartridge",
-		"price": -10,
+		"price": 1,
 		"category": "6x18mm Charged",
 		"defname": "Ammo_6x18mmCharged"
 	},
 	{
 		"abr": "6x18mmchargedcartridge(conc.)",
-		"price": -10,
+		"price": 1,
 		"category": "6x18mm Charged",
 		"defname": "Ammo_6x18mmCharged_AP"
 	},
 	{
 		"abr": "6x18mmchargedcartridge(ion)",
-		"price": -10,
+		"price": 1,
 		"category": "6x18mm Charged",
 		"defname": "Ammo_6x18mmCharged_Ion"
 	},
 	{
 		"abr": "6x24mmchargedcartridge",
-		"price": -10,
+		"price": 2,
 		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged"
 	},
 	{
 		"abr": "6x24mmchargedcartridge(conc.)",
-		"price": -10,
+		"price": 2,
 		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged_AP"
 	},
 	{
 		"abr": "6x24mmchargedcartridge(ion)",
-		"price": -10,
+		"price": 2,
 		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged_Ion"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_AP"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_Incendiary"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_FMJ"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_HE"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_HP"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x39mm Soviet",
 		"defname": "Ammo_762x39mmSoviet_Sabot"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_AP"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_Incendiary"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_FMJ"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_HE"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_HP"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_Sabot"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_AP"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(ap-i)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_Incendiary"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_FMJ"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(he)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_HE"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_HP"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(sabot)",
-		"price": -10,
+		"price": 1,
 		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_Sabot"
 	},
 	{
 		"abr": "80x256mmfuelcell(thermobaric)",
-		"price": -10,
+		"price": 48,
 		"category": "80x256mm Fuel Cell",
 		"defname": "Ammo_80x256mmFuel_Thermobaric"
 	},
 	{
 		"abr": "81mmmortarshell(nanoswarm)",
-		"price": -10,
+		"price": 62,
 		"category": "81mm mortar shell",
 		"defname": "Nanoswarm_shell_81mm"
 	},
 	{
 		"abr": "8x35mmchargedcartridge",
-		"price": -10,
+		"price": 2,
 		"category": "8x35mm Charged",
 		"defname": "Ammo_8x35mmCharged"
 	},
 	{
 		"abr": "8x35mmchargedcartridge(conc.)",
-		"price": -10,
+		"price": 2,
 		"category": "8x35mm Charged",
 		"defname": "Ammo_8x35mmCharged_AP"
 	},
 	{
 		"abr": "8x35mmchargedcartridge(ion)",
-		"price": -10,
+		"price": 2,
 		"category": "8x35mm Charged",
 		"defname": "Ammo_8x35mmCharged_Ion"
 	},
 	{
 		"abr": "90mmcannonshell(emp)",
-		"price": -10,
+		"price": 268,
 		"category": "90mm cannon shell",
 		"defname": "Ammo_90mmCannonShell_EMP"
 	},
 	{
 		"abr": "90mmcannonshell(he)",
-		"price": -10,
+		"price": 183,
 		"category": "90mm cannon shell",
 		"defname": "Ammo_90mmCannonShell_HE"
 	},
 	{
 		"abr": "90mmcannonshell(heat)",
-		"price": -10,
+		"price": 155,
 		"category": "90mm cannon shell",
 		"defname": "Ammo_90mmCannonShell_HEAT"
 	},
