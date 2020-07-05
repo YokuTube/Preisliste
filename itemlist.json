@@ -5831,67 +5831,7 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_SCWelshCorgi"
-	},
-	{
-		"abr": "gäste-androidpod",
-		"price": 282,
-		"category": "Möbel",
-		"defname": "ATPP_AndroidPodGuest"
-	},
-	{
-		"abr": "gäste-androidupgradestation",
-		"price": 1142,
-		"category": "Möbel",
-		"defname": "AndroidOperationBedGuest"
-	},
-	{
-		"abr": "gäste-bett",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "gäste-doppelbett",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "gäste-großerschlafsack",
-		"price": 290,
-		"category": "Möbel",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "gäste-intensivbett",
-		"price": 667,
-		"category": "Möbel",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "gäste-königlichesbett",
-		"price": 1467,
-		"category": "Möbel",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "gäste-m7pod",
-		"price": 1483,
-		"category": "Möbel",
-		"defname": "ATPP_AndroidPodMechGuest"
-	},
-	{
-		"abr": "gäste-schlafsack",
-		"price": 137,
-		"category": "Möbel",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "rauchgranate",
-		"price": 62,
-		"category": "81mm mortar shell",
-		"defname": "Shell_Smoke"
 	}
 	],
-	"total": 982
+	"total": 972
 }
