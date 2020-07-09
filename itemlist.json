@@ -188,7 +188,7 @@
 	},
 	{
 		"abr": "agariluxrawfungus",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "AA_AgariluxRawFungus"
 	},
@@ -230,7 +230,7 @@
 	},
 	{
 		"abr": "agavefruit",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawAgave"
 	},
@@ -728,7 +728,7 @@
 	},
 	{
 		"abr": "berries",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawBerries"
 	},
@@ -1274,7 +1274,7 @@
 	},
 	{
 		"abr": "cloth",
-		"price": 2,
+		"price": 3,
 		"category": "Textilien",
 		"defname": "Cloth"
 	},
@@ -1286,7 +1286,7 @@
 	},
 	{
 		"abr": "coal",
-		"price": 1,
+		"price": 3,
 		"category": "Rohstoffe",
 		"defname": "WDCoal"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "corn",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawCorn"
 	},
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"abr": "disgustingnutrientpastemeal",
-		"price": 2,
+		"price": 3,
 		"category": "Mahlzeiten",
 		"defname": "AA_DisgustingMealNutrientPaste"
 	},
@@ -1904,7 +1904,7 @@
 	},
 	{
 		"abr": "fermentedrottingmound",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "AA_RottingMoundItem"
 	},
@@ -2240,7 +2240,7 @@
 	},
 	{
 		"abr": "graniteblocks",
-		"price": 2,
+		"price": 3,
 		"category": "Steinblöcke",
 		"defname": "BlocksGranite"
 	},
@@ -2348,7 +2348,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": 3,
 		"category": "Nahrung",
 		"defname": "Hay"
 	},
@@ -2426,7 +2426,7 @@
 	},
 	{
 		"abr": "hops",
-		"price": 2,
+		"price": 3,
 		"category": "Pflanzenmasse",
 		"defname": "RawHops"
 	},
@@ -2474,7 +2474,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Human"
 	},
@@ -2678,7 +2678,7 @@
 	},
 	{
 		"abr": "insectmeat",
-		"price": 1,
+		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Megaspider"
 	},
@@ -2780,7 +2780,7 @@
 	},
 	{
 		"abr": "kibble",
-		"price": 2,
+		"price": 3,
 		"category": "Nahrung",
 		"defname": "Kibble"
 	},
@@ -2876,7 +2876,7 @@
 	},
 	{
 		"abr": "limestoneblocks",
-		"price": 2,
+		"price": 3,
 		"category": "Steinblöcke",
 		"defname": "BlocksLimestone"
 	},
@@ -3062,7 +3062,7 @@
 	},
 	{
 		"abr": "marbleblocks",
-		"price": 2,
+		"price": 3,
 		"category": "Steinblöcke",
 		"defname": "BlocksMarble"
 	},
@@ -3674,7 +3674,7 @@
 	},
 	{
 		"abr": "patchleather",
-		"price": 2,
+		"price": 3,
 		"category": "Leder",
 		"defname": "Leather_Patch"
 	},
@@ -3704,7 +3704,7 @@
 	},
 	{
 		"abr": "pemmican",
-		"price": 2,
+		"price": 3,
 		"category": "Nahrung",
 		"defname": "Pemmican"
 	},
@@ -3752,7 +3752,7 @@
 	},
 	{
 		"abr": "plantmeat",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "AA_CactusMeat"
 	},
@@ -3818,7 +3818,7 @@
 	},
 	{
 		"abr": "potatoes",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawPotatoes"
 	},
@@ -3998,13 +3998,13 @@
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawFungus"
 	},
 	{
 		"abr": "rawredslime",
-		"price": 1,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "AB_RawRedSlime"
 	},
@@ -4070,7 +4070,7 @@
 	},
 	{
 		"abr": "redwood",
-		"price": 2,
+		"price": 3,
 		"category": "Rohstoffe",
 		"defname": "GU_RedWood"
 	},
@@ -4106,7 +4106,7 @@
 	},
 	{
 		"abr": "rice",
-		"price": 2,
+		"price": 3,
 		"category": "Vegetarisch",
 		"defname": "RawRice"
 	},
@@ -4244,7 +4244,7 @@
 	},
 	{
 		"abr": "sandstoneblocks",
-		"price": 2,
+		"price": 3,
 		"category": "Steinblöcke",
 		"defname": "BlocksSandstone"
 	},
@@ -4358,7 +4358,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": 3,
 		"category": "Rohstoffe",
 		"defname": "Silver"
 	},
@@ -4448,7 +4448,7 @@
 	},
 	{
 		"abr": "slateblocks",
-		"price": 2,
+		"price": 3,
 		"category": "Steinblöcke",
 		"defname": "BlocksSlate"
 	},
@@ -5276,7 +5276,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": 2,
+		"price": 3,
 		"category": "Rohstoffe",
 		"defname": "WoodLog"
 	},
@@ -5402,7 +5402,7 @@
 	},
 	{
 		"abr": "atispecegg(fert.)",
-		"price": 1,
+		"price": 3,
 		"category": "Ei (befr.)",
 		"defname": "AA_AtispecEggFertilized"
 	},
@@ -5831,7 +5831,499 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_SCWelshCorgi"
+	},
+	{
+		"abr": "abwasserauslass",
+		"price": 176,
+		"category": "Diverses",
+		"defname": "SewageOutlet"
+	},
+	{
+		"abr": "abwasserbehandlung",
+		"price": 1725,
+		"category": "Diverses",
+		"defname": "SewageTreatment"
+	},
+	{
+		"abr": "antikekryptoschlafkapsel",
+		"price": 617,
+		"category": "Diverses",
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "aquaculturebasin",
+		"price": 800,
+		"category": "Diverses",
+		"defname": "AquacultureBasin"
+	},
+	{
+		"abr": "automatischetür",
+		"price": 323,
+		"category": "Diverses",
+		"defname": "Autodoor"
+	},
+	{
+		"abr": "barbedwire",
+		"price": 6,
+		"category": "Diverses",
+		"defname": "BarbedWire"
+	},
+	{
+		"abr": "barrikade",
+		"price": 19,
+		"category": "Diverses",
+		"defname": "Barricade"
+	},
+	{
+		"abr": "brunnen",
+		"price": 248,
+		"category": "Diverses",
+		"defname": "WaterWellInlet"
+	},
+	{
+		"abr": "elektrischeskrematorium",
+		"price": 700,
+		"category": "Diverses",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "embrasure",
+		"price": 18,
+		"category": "Diverses",
+		"defname": "Embrasure"
+	},
+	{
+		"abr": "fackel",
+		"price": 41,
+		"category": "Diverses",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "faultank",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "SewageSepticTank"
+	},
+	{
+		"abr": "fishingpier",
+		"price": 400,
+		"category": "Diverses",
+		"defname": "FishingPier"
+	},
+	{
+		"abr": "funkanlage",
+		"price": 608,
+		"category": "Diverses",
+		"defname": "CommsConsole"
+	},
+	{
+		"abr": "geothermiekraftwerk",
+		"price": 1575,
+		"category": "Diverses",
+		"defname": "GeothermalGenerator"
+	},
+	{
+		"abr": "grab",
+		"price": 5,
+		"category": "Diverses",
+		"defname": "Grave"
+	},
+	{
+		"abr": "großestele",
+		"price": 933,
+		"category": "Diverses",
+		"defname": "SteleGrand"
+	},
+	{
+		"abr": "großerwassertank",
+		"price": 717,
+		"category": "Diverses",
+		"defname": "WaterTowerL"
+	},
+	{
+		"abr": "holzfeuergenerator",
+		"price": 442,
+		"category": "Diverses",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "hydrokulturbecken",
+		"price": 383,
+		"category": "Diverses",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "kraftstoffgenerator",
+		"price": 492,
+		"category": "Diverses",
+		"defname": "ChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "kryptoschlafkapsel",
+		"price": 1183,
+		"category": "Diverses",
+		"defname": "CryptosleepCasket"
+	},
+	{
+		"abr": "kühlung",
+		"price": 458,
+		"category": "Diverses",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "lagerfeuer",
+		"price": 41,
+		"category": "Diverses",
+		"defname": "Campfire"
+	},
+	{
+		"abr": "langestele",
+		"price": 467,
+		"category": "Diverses",
+		"defname": "SteleLarge"
+	},
+	{
+		"abr": "lüftung",
+		"price": 97,
+		"category": "Diverses",
+		"defname": "Vent"
+	},
+	{
+		"abr": "lüftungsleitung",
+		"price": 5,
+		"category": "Diverses",
+		"defname": "airPipe"
+	},
+	{
+		"abr": "nährstoffspender",
+		"price": 458,
+		"category": "Diverses",
+		"defname": "NutrientPasteDispenser"
+	},
+	{
+		"abr": "passivekühlung",
+		"price": 101,
+		"category": "Diverses",
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "primitivewell",
+		"price": 95,
+		"category": "Diverses",
+		"defname": "PrimitiveWell"
+	},
+	{
+		"abr": "pumpezumentwässern",
+		"price": 458,
+		"category": "Diverses",
+		"defname": "MoisturePump"
+	},
+	{
+		"abr": "pumpstation",
+		"price": 567,
+		"category": "Diverses",
+		"defname": "PumpingStation"
+	},
+	{
+		"abr": "raumschiffcomputerkern",
+		"price": 9742,
+		"category": "Diverses",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "raumschiffkryptokapsel",
+		"price": 1725,
+		"category": "Diverses",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "raumschiffreaktor",
+		"price": 9067,
+		"category": "Diverses",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "raumschiffsensoren",
+		"price": 3008,
+		"category": "Diverses",
+		"defname": "Ship_SensorCluster"
+	},
+	{
+		"abr": "raumschiffträger",
+		"price": 1775,
+		"category": "Diverses",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "raumschifftriebwerk",
+		"price": 5925,
+		"category": "Diverses",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "rohr",
+		"price": 5,
+		"category": "Diverses",
+		"defname": "sewagePipeStuff"
+	},
+	{
+		"abr": "sandsäcke",
+		"price": 18,
+		"category": "Diverses",
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "sarkophag",
+		"price": 214,
+		"category": "Diverses",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "säule",
+		"price": 71,
+		"category": "Diverses",
+		"defname": "Column"
+	},
+	{
+		"abr": "scannerfürentferntemineralien",
+		"price": 1625,
+		"category": "Diverses",
+		"defname": "LongRangeMineralScanner"
+	},
+	{
+		"abr": "schalter",
+		"price": 102,
+		"category": "Diverses",
+		"defname": "PowerSwitch"
+	},
+	{
+		"abr": "skycloudcore",
+		"price": 27617,
+		"category": "Diverses",
+		"defname": "ATPP_SkyCloudCore"
+	},
+	{
+		"abr": "smalltransportpod",
+		"price": 66,
+		"category": "Diverses",
+		"defname": "TransportPodSmall"
+	},
+	{
+		"abr": "solaranlage",
+		"price": 492,
+		"category": "Diverses",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "solarheizung",
+		"price": 244,
+		"category": "Diverses",
+		"defname": "SolarHeater"
+	},
+	{
+		"abr": "startrampe",
+		"price": 230,
+		"category": "Diverses",
+		"defname": "PodLauncher"
+	},
+	{
+		"abr": "stromkabel",
+		"price": 3,
+		"category": "Diverses",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "subsurfaceconduit",
+		"price": 15,
+		"category": "Diverses",
+		"defname": "MUR_SubsurfaceConduit"
+	},
+	{
+		"abr": "subsurfaceconduit",
+		"price": 15,
+		"category": "Diverses",
+		"defname": "MUR_SubsurfaceConduitBuried"
+	},
+	{
+		"abr": "swimmingpool",
+		"price": 1617,
+		"category": "Diverses",
+		"defname": "DBHSwimmingPool"
+	},
+	{
+		"abr": "tiefenscanner",
+		"price": 1092,
+		"category": "Diverses",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "tieferbrunnen",
+		"price": 492,
+		"category": "Diverses",
+		"defname": "DeepWaterWellInlet"
+	},
+	{
+		"abr": "toilettentür",
+		"price": 18,
+		"category": "Diverses",
+		"defname": "ToiletStallDoor"
+	},
+	{
+		"abr": "transportkapsel",
+		"price": 253,
+		"category": "Diverses",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "trichter",
+		"price": 49,
+		"category": "Diverses",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "tür",
+		"price": 88,
+		"category": "Diverses",
+		"defname": "Door"
+	},
+	{
+		"abr": "überwand-kühlung",
+		"price": 458,
+		"category": "Diverses",
+		"defname": "Cooler_Over"
+	},
+	{
+		"abr": "überwand-kühlung(breit)",
+		"price": 458,
+		"category": "Diverses",
+		"defname": "Cooler_Over2W"
+	},
+	{
+		"abr": "überwand-lüftung",
+		"price": 97,
+		"category": "Diverses",
+		"defname": "Vent_Over"
+	},
+	{
+		"abr": "uraltebeton-barriere",
+		"price": 51,
+		"category": "Diverses",
+		"defname": "AncientConcreteBarrier"
+	},
+	{
+		"abr": "uraltestraßenlaterne",
+		"price": 50,
+		"category": "Diverses",
+		"defname": "AncientLamppost"
+	},
+	{
+		"abr": "verbrennungsgrube",
+		"price": 65,
+		"category": "Diverses",
+		"defname": "BurnPit"
+	},
+	{
+		"abr": "wand",
+		"price": 17,
+		"category": "Diverses",
+		"defname": "Wall"
+	},
+	{
+		"abr": "wasseraufbereitungsanlage",
+		"price": 1075,
+		"category": "Diverses",
+		"defname": "WaterTreatment"
+	},
+	{
+		"abr": "wasserfestesstromkabel",
+		"price": 32,
+		"category": "Diverses",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "wasserradgenerator",
+		"price": 1000,
+		"category": "Diverses",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "wasserturm",
+		"price": 258,
+		"category": "Diverses",
+		"defname": "WaterTowerS"
+	},
+	{
+		"abr": "windpumpe",
+		"price": 358,
+		"category": "Diverses",
+		"defname": "WindPump"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Diverses",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "gäste-androidpod",
+		"price": 282,
+		"category": "Möbel",
+		"defname": "ATPP_AndroidPodGuest"
+	},
+	{
+		"abr": "gäste-androidupgradestation",
+		"price": 1142,
+		"category": "Möbel",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "gäste-bett",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "gäste-doppelbett",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "gäste-großerschlafsack",
+		"price": 290,
+		"category": "Möbel",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "gäste-intensivbett",
+		"price": 667,
+		"category": "Möbel",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "gäste-königlichesbett",
+		"price": 1467,
+		"category": "Möbel",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "gäste-m7pod",
+		"price": 1483,
+		"category": "Möbel",
+		"defname": "ATPP_AndroidPodMechGuest"
+	},
+	{
+		"abr": "gäste-schlafsack",
+		"price": 137,
+		"category": "Möbel",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "rauchgranate",
+		"price": 62,
+		"category": "81mm mortar shell",
+		"defname": "Shell_Smoke"
 	}
 	],
-	"total": 972
+	"total": 1054
 }
