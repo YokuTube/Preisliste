@@ -5209,30 +5209,6 @@
 		"defname": "VCEF_RawAnglerfish"
 	},
 	{
-		"abr": "animalsbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookAnimals"
-	},
-	{
-		"abr": "apples",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawApple"
-	},
-	{
-		"abr": "artbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookArt"
-	},
-	{
-		"abr": "bananas",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawBanana"
-	},
-	{
 		"abr": "barett",
 		"price": 141,
 		"category": "Kopfbedeckung",
@@ -5245,40 +5221,10 @@
 		"defname": "VCEF_RawBass"
 	},
 	{
-		"abr": "bearberries",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_Bearberry"
-	},
-	{
-		"abr": "beets",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawBeets"
-	},
-	{
-		"abr": "blueprint",
-		"price": 2667,
-		"category": "Books",
-		"defname": "VBE_Blueprint"
-	},
-	{
-		"abr": "cabbages",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawCabbage"
-	},
-	{
 		"abr": "catfish",
 		"price": 7,
 		"category": "Raw fish",
 		"defname": "VCEF_RawCatfish"
-	},
-	{
-		"abr": "cherries",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawCherry"
 	},
 	{
 		"abr": "clownfish",
@@ -5291,24 +5237,6 @@
 		"price": 7,
 		"category": "Raw fish",
 		"defname": "VCEF_RawCod"
-	},
-	{
-		"abr": "constructionbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookConstruction"
-	},
-	{
-		"abr": "cookingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookCooking"
-	},
-	{
-		"abr": "craftingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookCrafting"
 	},
 	{
 		"abr": "cryogenicgun",
@@ -5345,12 +5273,6 @@
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawEel"
-	},
-	{
-		"abr": "eggplants",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawEggplant"
 	},
 	{
 		"abr": "ellenbogenklinge",
@@ -5467,12 +5389,6 @@
 		"defname": "NatureShrine_Large"
 	},
 	{
-		"abr": "growingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookGrowing"
-	},
-	{
 		"abr": "gunlink",
 		"price": 717,
 		"category": "Kopfbedeckung",
@@ -5525,12 +5441,6 @@
 		"price": 667,
 		"category": "Spezial",
 		"defname": "UnstablePowerCell"
-	},
-	{
-		"abr": "intellectualbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookIntellectual"
 	},
 	{
 		"abr": "jump-pack",
@@ -5635,12 +5545,6 @@
 		"defname": "VCEF_RawMackerel"
 	},
 	{
-		"abr": "map",
-		"price": 1333,
-		"category": "Books",
-		"defname": "VBE_Map"
-	},
-	{
 		"abr": "mech-assembler",
 		"price": 467,
 		"category": "Diverses",
@@ -5659,28 +5563,10 @@
 		"defname": "MechCapsule"
 	},
 	{
-		"abr": "medicalbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMedical"
-	},
-	{
 		"abr": "meditationsthron",
 		"price": 475,
 		"category": "Möbel",
 		"defname": "Throne"
-	},
-	{
-		"abr": "meleebook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMelee"
-	},
-	{
-		"abr": "miningbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMining"
 	},
 	{
 		"abr": "minnow",
@@ -5719,58 +5605,16 @@
 		"defname": "Neurocalculator"
 	},
 	{
-		"abr": "newspaper",
-		"price": 33,
-		"category": "Books",
-		"defname": "VBE_Newspaper"
-	},
-	{
 		"abr": "nuklearmagen",
 		"price": 1717,
 		"category": "Bionisch",
 		"defname": "NuclearStomach"
 	},
 	{
-		"abr": "onions",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawOnion"
-	},
-	{
-		"abr": "oranges",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawOrange"
-	},
-	{
 		"abr": "orbitalesmech-clusterzielgerät",
 		"price": 2000,
 		"category": "Hilfsmittel",
 		"defname": "OrbitalTargeterMechCluster"
-	},
-	{
-		"abr": "peaches",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawPeach"
-	},
-	{
-		"abr": "pears",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawPear"
-	},
-	{
-		"abr": "peas",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawPeas"
-	},
-	{
-		"abr": "peppers",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawPepper"
 	},
 	{
 		"abr": "perch",
@@ -5815,28 +5659,10 @@
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
 	{
-		"abr": "plums",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawPlum"
-	},
-	{
-		"abr": "pricklypears",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawPricklyPear"
-	},
-	{
 		"abr": "prostheticstable",
 		"price": 4058,
 		"category": "Produktion",
 		"defname": "TableProsthetics"
-	},
-	{
-		"abr": "prunes",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "VCE_RawPrunes"
 	},
 	{
 		"abr": "prunkvollermeditationsthron",
@@ -6049,12 +5875,6 @@
 		"defname": "VCEF_RawPufferfish"
 	},
 	{
-		"abr": "pumpkins",
-		"price": 7,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawPumpkin"
-	},
-	{
 		"abr": "ray-hound",
 		"price": 750,
 		"category": "Animal",
@@ -6089,18 +5909,6 @@
 		"price": 1717,
 		"category": "Bionisch",
 		"defname": "LoveEnhancer"
-	},
-	{
-		"abr": "shootingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookShooting"
-	},
-	{
-		"abr": "socialbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookSocial"
 	},
 	{
 		"abr": "sprat",
@@ -6156,198 +5964,6 @@
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
-	{
-		"abr": "techprint(jump-packs)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_JumpPack"
-	},
-	{
-		"abr": "techprint(kataphraktrüstung)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_CataphractArmor"
-	},
-	{
-		"abr": "techprint(kompaktewaffen)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_CompactWeaponry"
-	},
-	{
-		"abr": "techprint(künstlichermetabolismus)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_ArtificialMetabolism"
-	},
-	{
-		"abr": "techprint(molekularanalyse)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_MolecularAnalysis"
-	},
-	{
-		"abr": "techprint(neuraleberechnungen)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_NeuralComputation"
-	},
-	{
-		"abr": "techprint(spezialgliedmaßen)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_SpecializedLimbs"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 3,
-		"category": "Vegetarisch",
-		"defname": "VCE_RawTomatoes"
-	},
-	{
-		"abr": "trout",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawTrout"
-	},
-	{
-		"abr": "tuna",
-		"price": 7,
-		"category": "Raw fish",
-		"defname": "VCEF_RawTuna"
-	},
-	{
-		"abr": "typewritertable",
-		"price": 342,
-		"category": "Produktion",
-		"defname": "VBE_TypewritersTable"
-	},
-	{
-		"abr": "umhang",
-		"price": 367,
-		"category": "Edle kleidung",
-		"defname": "Apparel_Cape"
-	},
-	{
-		"abr": "verrücktmachendepsycholanze",
-		"price": 1083,
-		"category": "Hilfsmittel",
-		"defname": "Apparel_PsychicInsanityLance"
-	},
-	{
-		"abr": "vorhang",
-		"price": 608,
-		"category": "Möbel",
-		"defname": "Drape"
-	},
-	{
-		"abr": "vornehmekataphraktrüstung",
-		"price": 7100,
-		"category": "Rüstung",
-		"defname": "Apparel_ArmorCataphractPrestige"
-	},
-	{
-		"abr": "vornehmemarine-rüstung",
-		"price": 4675,
-		"category": "Rüstung",
-		"defname": "Apparel_ArmorMarinePrestige"
-	},
-	{
-		"abr": "vornehmerecon-rüstung",
-		"price": 3658,
-		"category": "Rüstung",
-		"defname": "Apparel_ArmorReconPrestige"
-	},
-	{
-		"abr": "vornehmerobe",
-		"price": 450,
-		"category": "Edle kleidung",
-		"defname": "Apparel_RobeRoyal"
-	},
-	{
-		"abr": "vornehmerkataphrakthelm",
-		"price": 2200,
-		"category": "Kopfbedeckung",
-		"defname": "Apparel_ArmorHelmetCataphractPrestige"
-	},
-	{
-		"abr": "vornehmermarine-helm",
-		"price": 1600,
-		"category": "Kopfbedeckung",
-		"defname": "Apparel_ArmorMarineHelmetPrestige"
-	},
-	{
-		"abr": "vornehmerrecon-helm",
-		"price": 1325,
-		"category": "Kopfbedeckung",
-		"defname": "Apparel_ArmorHelmetReconPrestige"
-	},
-	{
-		"abr": "wiederaufbereitungsmagen",
-		"price": 1717,
-		"category": "Bionisch",
-		"defname": "ReprocessorStomach"
-	},
-	{
-		"abr": "writerstable",
-		"price": 252,
-		"category": "Produktion",
-		"defname": "VBE_WritersTable"
-	},
-	{
-		"abr": "zeushammer",
-		"price": 3333,
-		"category": "Nahkampfwaffen",
-		"defname": "MeleeWeapon_Zeushammer"
-	},
-	{
-		"abr": "zylinder",
-		"price": 203,
-		"category": "Kopfbedeckung",
-		"defname": "Apparel_HatTop"
-	},
-	{
-		"abr": "gäste-bett",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "gäste-doppelbett",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "gäste-doppelschlafsack",
-		"price": 290,
-		"category": "Möbel",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "gäste-intensivbett",
-		"price": 667,
-		"category": "Möbel",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "gäste-königlichesbett",
-		"price": 1467,
-		"category": "Möbel",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "gäste-schlafsack",
-		"price": 137,
-		"category": "Möbel",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "rauchgranate",
-		"price": 62,
-		"category": "81mm mortar shell",
-		"defname": "Shell_Smoke"
-	}
 	],
-	"total": 1058
+	"total": 1016
 }
