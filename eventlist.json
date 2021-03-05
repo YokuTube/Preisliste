@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 5000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -388,7 +388,7 @@
 	{
 		"abr": "removepassion",
 		"price": 5000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
